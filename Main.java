@@ -1,4 +1,4 @@
-import java.io.IOException;
+<html><body><strong>Sneaky!</strong></body></html>import java.io.IOException;
 import java.nio.file.Paths;
 import java.nio.file.Path;
 
